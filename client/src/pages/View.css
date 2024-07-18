@@ -1,0 +1,38 @@
+.card{
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    width: 700px;
+    height: 500px;
+    overflow: auto;
+    margin-bottom: 50px;
+}
+
+.card-header{
+    background-color: #f8f9fa;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card-header p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container{
+    background-color: #f8f9fa;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+}
